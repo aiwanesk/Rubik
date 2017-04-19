@@ -21,8 +21,6 @@ vector<string> Parser::generateRandomMove(){
 		int where = rand() % (int)validMove.size();
 		ret.push_back(validMove[where]);
 	}
-	for (auto &x : ret)
-		cout << x << endl;
 	return (ret);
 }
 
