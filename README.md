@@ -11,7 +11,7 @@ date: 2017-09-30 15:39
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir une super codeuse.
+objective: Réaliser une mission d'entreprise : faire une application de vente sur smartphone.
 short_description: >
     J'aime les sciences humaines, l'informatique, les jeux vidéos, les jeux de rôles et les chats.
 
